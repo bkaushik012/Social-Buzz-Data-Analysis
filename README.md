@@ -1,37 +1,35 @@
 # Social-Buzz-Data-Analysis Challenge by Forage Accenture
 
-Overview:
+Overview
 
-This repository contains the data analysis and visualization work undertaken by the Accenture Data Analyst team for the "Social Buzz" client. The project focuses on providing insights into content popularity and aims to support the client's preparations for an upcoming IPO.
+This project analyzes social media engagement data for Social Buzz as part of the Accenture Data Analytics & Visualization Virtual Experience Program. The objective was to identify high-performing content categories, generate business insights, and support strategic recommendations ahead of the company’s planned IPO.
 
-Project Goals:
+**Objectives**
+Identify the top-performing content categories by engagement and popularity
+Clean, model, and analyze large datasets to uncover consumer behavior trends
+Generate actionable insights and recommendations through data visualization and reporting
+Support data-driven decision-making for business growth and content strategy
 
-Identify the top 5 content categories with the largest popularity on the Social Buzz platform.
-Conduct an audit of the client's big data practices.
-Provide recommendations for a successful IPO.
-Collaborate with the Social Buzz Data Team to understand and optimize their technology landscape.
+**Project Components**
 
-Key Features:
+***Data Cleaning & Preparation***
+Processed and cleaned multiple datasets to improve data consistency and analysis accuracy.
+Structured and merged relational datasets for reporting and trend analysis.
 
+***Data Analysis***
+Evaluated over 3.65M+ annual social media records to identify engagement trends and top-performing content categories.
+Explored relationships between datasets to uncover consumer behavior patterns and business insights.
 
-Data Sets: Seven datasets have been provided, each with unique columns and values.
+***Visualization & Reporting***
+Created visual reports and presentation materials to communicate findings clearly to stakeholders.
+Developed recommendations to support content strategy optimization and operational decision-making.
 
-Data Model: A visual representation of the relationships between datasets, aiding in data modeling.
+***Technologies Used***
+Excel
+Power BI
+SQL
 
-Analysis Process: Requirements gathering, data cleaning, and data modeling steps are followed.
-
-Project Structure:
-
-Requirements Gathering:
-Understanding the data model and identifying relevant datasets.
-Considering key columns and relationships for the analysis.
-
-Data Cleaning:
-Cleaning and processing data for accurate analysis.
-
-Data Modeling:
-Utilizing the data model to merge datasets and extract meaningful insights.
-
-Presentation:
-Structure and documentation of the analysis process.
-Visualizations and recommendations for the client.
+***Key Insights***
+Identified the top 5 highest-performing content categories on the Social Buzz platform.
+Discovered engagement trends that could support future content and marketing strategies.
+Demonstrated end-to-end analytics workflow including data cleaning, modeling, visualization, and reporting.
